@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Industry
-======
-
 I'm currently a 5+ year experienced senior digital design engineer at Huawei Hong Kong Research Center [HKRC](https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/?originalSubdomain=hk), specializing in designing the micro-architecture and delivering production-level Verilog code for AI-GPU core used in key products like Huawei [Ascend](https://e.huawei.com/en/products/computing/ascend). My experience includes:
 
 - Designing a complete compute-pipeline inside the AI-GPU core, receving instruction from the issue queue as well as retiring the instructions.
@@ -34,4 +31,4 @@ Visit my [Google Scholar](https://scholar.google.com/citations?user=q9D722sAAAAJ
 Patterns
 ======
 
-1. CN107085836A [link](https://patents.google.com/patent/CN107085836A/zh)
+CN107085836A [link](https://patents.google.com/patent/CN107085836A/zh)

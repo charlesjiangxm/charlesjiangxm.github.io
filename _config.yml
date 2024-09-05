@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-HK"
-title                    : "PERSONAL PAGE"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jingbo (Charles) JIANG"
 description              : &description "Circuit designer, Micro-architect and Researcher"

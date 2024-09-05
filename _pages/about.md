@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Industry"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,7 +26,7 @@ I'm a PhD student in the Reconfigurable Computing System Lab ([RCSL](https://eew
 Publications
 ======
 
-Visit my [Google Scholar](https://scholar.google.com/citations?user=q9D722sAAAAJ&hl=en&inst=1381320739207392350) for a full list of my publications.  
+Visit my [Google Scholar](https://scholar.google.com/citations?user=q9D722sAAAAJ&hl=en&inst=1381320739207392350) for a full list of publications.
 
 Patterns
 ======

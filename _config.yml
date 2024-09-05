@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-HK"
+title                    : "CHARLES"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jingbo (Charles) JIANG"
+description              : &description "Circuit designer, Micro-architect and Researcher"
+url                      : https://charlesjiangxm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "charlesjiangxm/charlesjiangxm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Circuit designer, Micro-architect and Researcher"
   location         : "Hong Kong"
-  employer         : "Huawei Hong Kong Research Center"
+  employer         : "Huawei HK Research Center"
   uri              : # URL
   email            : "jjiangan@connect.ust.hk" 
 

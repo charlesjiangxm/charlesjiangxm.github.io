@@ -1,7 +1,7 @@
 ---
 title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity. In 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE). 241–244"
 collection: publications
-category: conference
+category: conferences
 permalink: https://arxiv.org/abs/1711.01263
 excerpt: 'Contemporary Deep Neural Network (DNN) contains millions of synaptic connections with tens to hundreds of layers. The large computation and memory requirements pose a challenge to the hardware design. In this work, we leverage the intrinsic activation sparsity of DNN to substantially reduce the execution cycles and the energy consumption. An end-to-end training algorithm is proposed to develop a lightweight run-time predictor for the output activation sparsity on the fly. From our experimental results, the computation overhead of the prediction phase can be reduced to less than 5% of the original feedforward phase with negligible accuracy loss. Furthermore, an energy-efficient hardware architecture, SparseNN, is proposed to exploit both the input and output sparsity. SparseNN is a scalable architecture with distributed memories and processing elements connected through a dedicated on-chip network. Compared with the state-of-the-art accelerators which only exploit the input sparsity, SparseNN can achieve a 10%-70% improvement in throughput and a power reduction of around 50%.'
 date: 2017-11-03

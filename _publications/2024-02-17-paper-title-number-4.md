@@ -1,5 +1,5 @@
 ---
-title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity. In 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE). 241–244"
+title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity."
 collection: publications
 category: conferences
 permalink: https://arxiv.org/abs/1711.01263

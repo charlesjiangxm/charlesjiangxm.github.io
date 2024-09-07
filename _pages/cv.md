@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2024 - Now: Huawei Hong Kong Research Center
+* 2021 - Now: Huawei Hong Kong Research Center
   * Processor Lab/Davinci AI Core Department
   * Role: Senior Digital Design Engineer
 

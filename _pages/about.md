@@ -25,8 +25,3 @@ Academic
 I'm a graduated Mphil (Research Master) student from [VLSI Lab](https://sites.google.com/view/vlsi-lab-hkust), which belongs to the integrated circuit design center ([ICDC](https://icdc.hkust.edu.hk/)) in the Department of Electronic and Computer Engineering ([ECE](https://ece.hkust.edu.hk/)), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). My research focus at that time is designing the micro-architecture of the CNN-based AI accelerator, and implement on FPGA and as an ASIC. I was especially focused on improving the fast algorithm to reduce the amount of multiplication required for the compute-intensive CNN computations.  
 
 I'm a PhD student in the Reconfigurable Computing System Lab ([RCSL](https://eeweiz.home.ece.ust.hk/)), same ICDC, same ECE, and the same HKUST :> But currently I focus more on the architectural optimization and modeling of the AI-GPU, especially about the power management. We saw that very frequently, power is the one who limits the potential of modern GPUs, and this situation is worse with the use of advanced technology node (<5nm), and the 2.5D, 3D IC packaging. We try different ways to mitigate the influence of frequency drop during the maximum power and power throghting senario.
-
-Patterns
-======
-
-CN107085836A [link](https://patents.google.com/patent/CN107085836A/zh)
